@@ -1,4 +1,4 @@
-# Pasifik-Panel-API-CSharp
+# Pasifik Panel API CSharp
 This library package provides a variety systems, the simplest way to integrate Pasifik services with your system.
 
 ## Requirements
