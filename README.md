@@ -6,9 +6,9 @@ You should add to References `System.Web.Extensions`.
 
 Navigate to `C:\Program Files\Reference Assemblies\Microsoft\Framework\v3.5\`.
 
-You can see `System.Web.Extensions.dll`
+You can see `System.Web.Extensions.dll`, we use `JavaScriptSerializer` class which Serialize Objects Collection to JSON string.
 
-3.5 or greater .Net Framework required to build it.
+*3.5* or greater .Net Framework required to build it.
 
 ## Installation
 Download source code then Unzip package.
