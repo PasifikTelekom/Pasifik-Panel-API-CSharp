@@ -11,7 +11,7 @@ You can see `System.Web.Extensions.dll`, we use `JavaScriptSerializer` class whi
 *3.5* or greater .Net Framework required to build it.
 
 ## Installation
-Download source code then Unzip package.
+Download source code and Unzip package.
 
 Open Solution using Visual Studio 2010.
 
